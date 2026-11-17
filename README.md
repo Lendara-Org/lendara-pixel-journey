@@ -18,17 +18,17 @@
 
 ## About
 
-Three builders, two countries, one mission. A tiny retro RPG that tells how we traveled from Costa Rica and Argentina to Lisbon for **HackMeridian 2026** to build **Lendara on Stellar**.
+Three builders, two countries, one mission. A tiny retro RPG that tells how we traveled from Costa Rica and Argentina to Lisbon to build **Lendara on Stellar**.
 
 Five short scenes, under two minutes.
 
 ## The team
 
-| | | |
-|---|---|---|
-| **Anouk Rímola** | 🇨🇷 Costa Rica | [LinkedIn](https://www.linkedin.com/in/anouk-r%C3%ADmola-b9915a223/) |
-| **María Elisa Araya** | 🇦🇷 Argentina | [LinkedIn](https://www.linkedin.com/in/arayamariaelisa/) |
-| **Karen Giannetto** (Karu) | 🇦🇷 Argentina | [LinkedIn](https://www.linkedin.com/in/karen-giannetto/) |
+| | | | |
+|---|---|---|---|
+| **Anouk Rímola** | 🇨🇷 Costa Rica | [LinkedIn](https://www.linkedin.com/in/anouk-r%C3%ADmola-b9915a223/) | [X](https://x.com/Anouk_Rimola) |
+| **Elisa Araya** | 🇦🇷 Argentina | [LinkedIn](https://www.linkedin.com/in/arayamariaelisa/) | [X](https://x.com/ar3lisa) |
+| **Karen Giannetto** (Karu) | 🇦🇷 Argentina | [LinkedIn](https://www.linkedin.com/in/karen-giannetto/) | [X](https://x.com/karu_giann) |
 
 ## Run it
 
