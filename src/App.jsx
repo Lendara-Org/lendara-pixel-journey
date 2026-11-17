@@ -12,7 +12,7 @@ const JOURNEY_MS = 7000;
 const SCENES = [
   { title: 'LATAM', text: 'Three builders. Two countries. One mission.' },
   { title: 'THE JOURNEY', text: 'Anouk sets off from Costa Rica. Elisa and Karu from Argentina. Next stop: Lisbon.' },
-  { title: 'LISBON', text: 'Different paths. One destination. HackMeridian 2026.' },
+  { title: 'LISBON', text: 'Different paths. One destination. Meridian.' },
   { title: 'BUILDING LENDARA', text: 'Three laptops, one table, one goal: build Lendara on Stellar.' },
   { title: "WHAT'S NEXT?", text: 'Built in LATAM. Brought together in Lisbon. Building on Stellar.' },
 ];
@@ -227,7 +227,7 @@ function Hackathon({ step }) {
       <rect x="25.6" y="3.1" width="28.8" height="5.4" fill="#2b1d2a" />
       <rect x="26" y="3.5" width="28" height="4.6" fill="#e2445c" />
       <rect x="26.6" y="4.1" width="26.8" height="3.4" fill="none" stroke="#ffd25e" strokeWidth="0.2" />
-      <text x="40" y="6.45" fontSize="1.45" textAnchor="middle" fill="#fff6e0" className="px">HACKMERIDIAN 2026</text>
+      <text x="40" y="6.45" fontSize="1.45" textAnchor="middle" fill="#fff6e0" className="px">MERIDIAN</text>
       <rect x="28" y="8.1" width="1" height="1" fill="#e2445c" />
       <rect x="51" y="8.1" width="1" height="1" fill="#e2445c" />
       {/* whiteboard doodle */}
